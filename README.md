@@ -11,7 +11,7 @@ Package for getting current environment
 1.1.2 Dependency under "require" key
 
 ```json
-    "subscribo/environment": "@dev"
+    "subscribo/environment": "^0.1.0"
 ```
 
 1.2. If you are using Laravel (5.0), you might want to add
